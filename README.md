@@ -10,8 +10,8 @@ by adding little sound effects in the game.
 Like when the gamer hits play button, it makes this war starting sound.
 And while shooing pew, pew, pew! :)
 
-Even though this project is not that big, I included a __requirements.txt__ file.
-that has only one requirement of **pygame** module.
+ __requirements.txt__ file.
+requirement of **pygame** module.
 
 ## Game play
 Are you ready to witness the game play for the **hardest game ever**!?
