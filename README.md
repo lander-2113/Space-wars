@@ -4,11 +4,8 @@ This is a silly name for a silly project, __space wars__:). Anyway happy gaming.
 ![Image 2](./git_files/img2.png)
 
 This project is developed from the book **'Python Crash Course'**.
-I had fun learning and coding this project. I tried to make it more fun,
+It was fun learning and coding this project. Some modification
 by adding little sound effects in the game.
-
-Like when the gamer hits play button, it makes this war starting sound.
-And while shooing pew, pew, pew! :)
 
  __requirements.txt__ file.
 requirement of **pygame** module.
